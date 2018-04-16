@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "rspec"
-gem "sinatra", "v1.4.4"
+gem "sinatra", "=1.4.4"
 gem "hashie"
 gem "octokit"
 gem "awesome_print"
